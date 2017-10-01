@@ -1,0 +1,12 @@
+body {
+  background-color: #F8F8F8;
+  cursor: not-allowed;
+}
+
+#floater {
+  float: left
+}
+
+.bigGulpsHuh {
+  font-size: 200%;
+}

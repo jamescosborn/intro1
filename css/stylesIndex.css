@@ -1,0 +1,87 @@
+.ringer {
+  color: red;
+}
+
+#secret {
+  color: #101010;
+}
+
+#smallHands {
+  height: 250px;
+  width: auto;
+}
+.giantRed {
+  font-size: 333%;
+  color: red;
+}
+
+.true {
+  color: green;
+}
+
+p {
+    margin-bottom: 100px;
+    font-size: 200%;
+}
+
+body {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.clue {
+  color: green;
+}
+
+.itsRed {
+  color:red;
+  margin-bottom: 1000px;
+}
+
+.goLong {
+  margin-bottom: 250px;
+}
+
+#downArrow {
+  display: block;
+  margin: auto;
+  margin-top: 200px;
+}
+
+.downwell {
+    margin-bottom: 250px;
+}
+.thing1 {
+  margin-left: 240px;
+  margin-bottom: 1000px;
+
+}
+
+.thing2 {
+  margin-left: 240px;
+  margin-bottom: 1000px;
+}
+
+h1 {
+  margin-top: 2000px;
+  margin-bottom: 1000px;
+}
+
+h3 {
+  margin-top: 5000px;
+  margin-bottom: 2500px;
+}
+h4 {
+
+}
+h5 {
+
+}
+h6 {
+
+}
+
+#pushleft {
+  margin-left: 250px;
+}
